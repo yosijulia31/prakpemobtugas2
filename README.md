@@ -1,20 +1,14 @@
 TUGAS PERTEMUAN 2 PEMROGRAMAN MOBILE
 
-Nama		: Syifa Rahmadina
+Nama		: Yosi Julia Utami
 
-NIM		: H1D021094
+NIM		: H1D021022
 
 Shift Baru	: D
 
 A.	SCREENSHOT
   
- ![PPM2 - Form Data](https://github.com/user-attachments/assets/5ed2fd3c-67c2-4818-a092-0072259a93af) 
-
-
- ![PPM2 - Input](https://github.com/user-attachments/assets/5e1e52f1-c1f1-4778-8133-b2e79a37a11d)
-
-
-![PPM2 - Tampilan](https://github.com/user-attachments/assets/7f8ceb62-1409-4c10-8be2-631afba42a2e)
+ada di file di atas
 
 
 B.	Proses Passing Data dari Form Menuju Tampilan 
